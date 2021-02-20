@@ -1,22 +1,27 @@
 
-<a href="https://bit.ly/remembering-elsie-program" target="_blank"><img src="https://lh5.googleusercontent.com/RHfSnGKm3DWrEscOR7Y4q1JwqfkEMDZcNyWD-zM09ULRl16ckN8IQ5vUVtYG2SCdCvDIK-ilfadLVlUrmwhH1Sf3BVSBJJamfgUKxzTqSBgvc0pPnA6lW1a---lM2g=w1769" width="600px"/></a>
 
 # Virtual Memorial Service
 
 We will be holding a virtual service to remember Elsie at 2PM PST on Sunday February 21, 2021.
+<br />
+<br />
 
-Please download the program [here](https://bit.ly/remembering-elsie-program){:target="_blank"}.
 
-## Connecting
+## Program/Pictures: [CLICK HERE](https://bit.ly/remembering-elsie-program){:target="_blank"}.
 
-Join Zoom meeting from PC, Mac, Linux, iOS or Android: [Click Here](https://bit.ly/remembering-elsie-zoom){:target="_blank"}.
+<br />
 
-If you do not have Zoom installed, you may need to follow the prompts to install it.
+## Zoom Meeting: [CLICK HERE](https://bit.ly/remembering-elsie-zoom){:target="_blank"}
 
 If asked for a password, enter _7747719_
+<br />
+<br />
 
-You can also join by telephone:
- - Number: 888 788 0099
+## Dial-in (Telephone):
+
+If you are unable to install Zoom or have connection issues, you can join the call by telephone.
+
+ - Phone Number: 888-788-0099
  - Meeting ID: 979 2319 0434
  - Password: 774 7719
 
