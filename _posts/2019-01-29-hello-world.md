@@ -1,6 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 published: false
+author: Ry Biesemeyer
 ---
 
 **Hello world**, this is my first Jekyll blog post.

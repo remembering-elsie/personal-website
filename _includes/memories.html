@@ -1,0 +1,17 @@
+<h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Additional Memories</h2>
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Articles I've written.</p>
+<div class="d-sm-flex flex-wrap gutter-condensed mb-4">
+  {% assign original_post = post %}
+
+  {% if page.previous %}
+    {% assign post = page.previous %}
+    {% include post-card.html %}
+  {% endif %}
+
+  {% if page.next %}
+    {% assign post = page.next %}
+    {% include post-card.html %}
+  {% endif %}
+
+  {% assign post = original_post %}
+</div>

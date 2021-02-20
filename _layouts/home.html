@@ -1,5 +1,9 @@
 {% include header.html %}
 
+{% capture content_markdown %}
+{% include zoom-invitation.md %}
+{% endcapture %}
+
 {% if site.layout == 'stacked' %}
   <div class="container-lg py-6 p-responsive text-center">
     {% include masthead.html metadata=true %}
@@ -7,16 +11,9 @@
     <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
       {{ content }}
     </div>
-
-    <div class="my-6">
-      {% include projects.html %}
+    <div class="f4 {% if site.style == 'dark' %}text-white{% endif %} mb-6">
+      {{ content_markdown | markdownify }}
     </div>
-
-    {% if site.topics %}
-      <div class="my-6">
-        {% include interests.html %}
-      </div>
-    {% endif %}
 
     {% unless posts_total == 0 %}
       <div class="my-6">
@@ -37,12 +34,10 @@
             {{ content }}
           </div>
         {% endunless %}
+        <div class="f4 {% if site.style == 'dark' %}text-white{% endif %} mb-6">
+          {{ content_markdown | markdownify }}
+        </div>
 
-        {% include projects.html %}
-
-        {% if site.topics %}
-          {% include interests.html %}
-        {% endif %}
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
