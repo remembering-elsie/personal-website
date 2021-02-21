@@ -1,0 +1,11 @@
+<h2>Memories of Elsie</h2>
+
+<p>Below is a selection of submitted stories.</p>
+
+<p>If you would like to submit a story for inclusion, please send an e-mail to <a href="mailto:ry@biesemeyer.net?subject=Remembering Elsie">ry@biesemeyer.net</a></p>
+
+<ul>
+{% for memory in site.memories %}
+  <li><a href="{{ memory.url }}">{{ memory.title }} - {{ memory.author }} {%if memory.relationship%}({{memory.relationship}}){%endif%}</a></li>
+{% endfor %}
+</ul>

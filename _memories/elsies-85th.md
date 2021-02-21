@@ -1,0 +1,7 @@
+---
+title: Elsie's 85th
+author: Robert Johnson
+relationship: Son
+---
+
+In June of 2017, we had a get-together for Mom’s 85th birthday.  There was a very unusual early summer heat wave that year, and the temperature in Portland was up to 100 degrees.  We thought it should be a bit cooler at the Oregon coast, so we Bill and Hector and I took Mom for a drive to Cannon Beach and Rockaway.  And it was very unusual because it was really hot at the beach too!  In Cannon Beach we drove through the town and saw all the things that had changed and so many things that were the same.  We had a nice lunch, and then drove over Neah-Kah-Nie Mountain and past Manzanita.  We reminisced about visiting Walt & June and Kristine, Lori and Ricky when the Johnson kids were young.  And we continued down to Rockaway Beach.  Mom really wanted to visit Rockaway Beach Resort, where Mom & Dad had a time-share, and say hello to the longtime manager, Don Osborne.  Don told us how much he had enjoyed their time at RBR.  But now, Mom couldn’t walk on the uneven sand with her walker, so she sat on a bench overlooking the beach while we took a quick walk down to the water.  One of the pictures of Elsie sitting on that bench in the sun, under a colorful umbrella, was featured on our Caring Bridge page.  And after our visit to Rockaway, we continued down to Route 6 and drove back to Portland that way.  On the way, we stopped at the Tillamook Forest Center, which Mom supported.  There’s a picture in the slideshow of Mom with the plaque in memory of Del.
