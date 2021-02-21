@@ -7,7 +7,7 @@ We will be holding a virtual service to remember Elsie at 2PM PST on Sunday Febr
 <br />
 
 
-## Program/Pictures: [CLICK HERE](https://bit.ly/remembering-elsie-program){:target="_blank"}.
+## Program/Pictures: [CLICK HERE](https://bit.ly/remembering-elsie-guide){:target="_blank"}.
 
 <br />
 
