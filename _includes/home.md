@@ -4,7 +4,7 @@ A memorial service was held on Sunday February 21, 2021.
 
 Information about the memorial service including the program, a recording, and the slideshow are available [HERE](/memorial).
 
-## Photo Albums
+## Photo Albums & Music
 
-A collection of photos are available in this photo album [HERE](http://bit.ly/remembering-elsie-album){:target="_blank"}.
-Family and friends are encouraged to continue uploading pictures to this album.
+ - Ross' ['_ElsieJohnson_' Album on Google Photos](http://bit.ly/remembering-elsie-album){:target="_blank"}, which many family members have contributed to. Family and friends are encouraged to continue adding photos.
+ - Tommy's ['_Grandma and Grandpa 1952_' playlist on Spotify](http://bit.ly/remembering-elsie-playlist){:target="_blank"}
