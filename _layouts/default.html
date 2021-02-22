@@ -1,5 +1,12 @@
 {% include header.html %}
 
+{% assign page_extension = page.name | split:'.' | last %}
+{% if page_extension == "md" %}
+  {% capture content %}
+    {{ content | markdownify }}
+  {% endcapture %}
+{% endif %}
+
 {% if site.layout == 'stacked' %}
   <div class="container-lg py-6 p-responsive text-center">
     {% include masthead.html metadata=false %}
